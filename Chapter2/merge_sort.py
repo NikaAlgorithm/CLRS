@@ -51,6 +51,3 @@ def MergeSort(arr, s, e):
     return arr   
         
 
-lst = [4,6,5,1,3,0]
-sorted_lst = MergeSort(lst, 0, len(lst)-1)
-print(sorted_lst)
